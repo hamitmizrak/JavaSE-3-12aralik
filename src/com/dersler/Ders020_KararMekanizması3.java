@@ -1,6 +1,6 @@
 package com.dersler;
 
-public class Ders019_KararMekanizması3 {
+public class Ders020_KararMekanizması3 {
 	public static void main(String[] args) {
 
 		String gunler = "cuma";

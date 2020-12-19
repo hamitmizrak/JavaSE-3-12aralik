@@ -2,7 +2,7 @@ package com.dersler;
 
 import java.util.Scanner;
 
-public class Ders019_KararMekanizması2 {
+public class Ders021_KararMekanizması2 {
 	public static void main(String[] args) {
 		Scanner klavye = new Scanner(System.in);
 		System.out.println("gün giriniz");
