@@ -1,6 +1,6 @@
 package com.ecodation.kalitim;
 
-public class Person {
+public class InheritancePerson {
 	private int parmakIzi;
 	private String zekasi;
 	private String gozRetinasi;

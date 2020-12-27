@@ -1,5 +1,5 @@
 package com.ecodation.kalitim;
 
-public class Gozde extends Person {
+public class Gozde extends InheritancePerson {
 	
 }

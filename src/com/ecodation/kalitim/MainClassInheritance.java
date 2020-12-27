@@ -1,8 +1,11 @@
 package com.ecodation.kalitim;
 
-public class MainClass {
+public class MainClassInheritance {
 	
 	public static void main(String[] args) {
+		InheritancePerson person = new InheritancePerson();
+		System.out.println(person);
+		
 		Beyza beyza = new Beyza();
 		beyza.setParmakIzi(415);
 		System.out.println(beyza.getParmakIzi());

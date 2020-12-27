@@ -1,5 +1,5 @@
 package com.ecodation.kalitim;
 
-public class Yigit extends Person {
+public class Yigit extends InheritancePerson {
 	
 }
